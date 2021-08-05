@@ -1,2 +1,2 @@
 Git is very good
-Git is very easy
+Creating a new branch is quick AND simple.
